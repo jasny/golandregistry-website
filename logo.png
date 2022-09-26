@@ -1,0 +1,11 @@
+--2022-09-26 09:01:02--  https://golandregistry.com/assets/images/goLR-logo%20(2).png
+Resolving golandregistry.com (golandregistry.com)... 18.67.0.71, 18.67.0.30, 18.67.0.90, ...
+Connecting to golandregistry.com (golandregistry.com)|18.67.0.71|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 8635 (8,4K) [image/png]
+Saving to: ‘goLR-logo (2).png’
+
+     0K ........                                              100% 67,6M=0s
+
+2022-09-26 09:01:03 (67,6 MB/s) - ‘goLR-logo (2).png’ saved [8635/8635]
+
